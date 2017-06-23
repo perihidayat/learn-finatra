@@ -1,6 +1,6 @@
 This is an example of [Twitter's Finatra](https://twitter.github.io/finatra/) implementation.
 
-The service is used for querying [GIPHY](giphy.com) APIs.
+The service is used for querying [GIPHY](https://giphy.com/) APIs.
 
 For current implementation, it covers :
 * **SEARCH API**
